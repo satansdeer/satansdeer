@@ -1,8 +1,5 @@
 ![cover](https://user-images.githubusercontent.com/450319/111344665-db679f00-867c-11eb-87f3-9aa068249a4c.jpg)
 
-### Hi there 👋
-
-
 <!--
 **satansdeer/satansdeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,6 +29,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/youtube/views/UC5hby9iDkwOTQM7PIjyjbgw?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a> -->
 </p>
+
+### Hi there 👋
+
+My name is Maksim and I make YouTube videos, courses and programming tutorials.
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=satansdeer&show_icons=true&theme=tokyonight" />
