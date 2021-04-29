@@ -22,12 +22,12 @@ Here are some ideas to get you started:
   <a href="http://twitter.com/ivanov_dev">
     <img src="https://img.shields.io/twitter/follow/ivanov_dev?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
-<!--   <a href="https://discord.com/invite/KPh8Vvb">
+  <a href="https://discord.com/invite/KPh8Vvb">
     <img src="https://img.shields.io/discord/712989606710214666?logo=discord&style=for-the-badge" />
   </a>
   <a href="http://youtube.com/satansdeer1?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/UC5hby9iDkwOTQM7PIjyjbgw?label=YouTube&logo=YouTube&style=for-the-badge" />
-  </a> -->
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC5hby9iDkwOTQM7PIjyjbgw?label=YouTube&logo=YouTube&style=for-the-badge" />
+  </a>
 </p>
 
 ### Hi there 👋
