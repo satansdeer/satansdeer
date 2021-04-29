@@ -1,4 +1,4 @@
-![cover](https://user-images.githubusercontent.com/450319/111344665-db679f00-867c-11eb-87f3-9aa068249a4c.jpg)
+![github-hero](https://user-images.githubusercontent.com/450319/116597645-29332080-a926-11eb-95e2-65ea39420124.jpg)
 
 <!--
 **satansdeer/satansdeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
